@@ -1,0 +1,20 @@
+@font-face {
+	font-family: Noir-Medium;
+	src: url(../fonts/Noir_Font/Noir_medium.otf);
+}
+@font-face {
+	font-family: Noir-Regular;
+	src: url(../fonts/Noir_Font/Noir_regular.otf);
+}
+@font-face {
+	font-family: PlayfairDisplay-Regular;
+	src: url(../fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf);
+}
+@font-face {
+	font-family: PlayfairDisplay-Italic;
+	src: url(../fonts/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+	font-family: Hochagi;
+	src: url(https://himainfra.petra.ac.id/oprec/assets/fonts/hochagi.ttf);
+}
