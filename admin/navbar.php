@@ -1,3 +1,7 @@
+<?php
+    include "../connect.php";
+?>
+
 <style>
     .navbar {
         background-color: #586dc4;
